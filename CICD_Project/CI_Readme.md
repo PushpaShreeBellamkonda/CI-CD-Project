@@ -3,9 +3,8 @@
 
 **Step:1 Create an ec2 instance of type " t2 large "**
 
+![Screenshot (1092)](https://github.com/user-attachments/assets/fb158703-a0f4-43c9-9603-59c97a081b55)
 
-
-![Screenshot (1092)](https://github.com/user-attachments/assets/7c73fc01-2110-4c2a-8b48-c0a5e69a8b6c)
 
 
 
